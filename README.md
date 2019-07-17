@@ -1,6 +1,9 @@
 # Trading-Card-Collection-Organizer
 ReactJS application that uses the Scryfall API to search for Magic the Gathering cards, allowing the user to add them to a collection database, organize them by color, and check the approximate price of individual cards as well as the whole collection
 
+<h2>Live Deploy:</h2>
+https://kind-bohr-2682d0.netlify.com/
+
 You may use the following credentials to login:
 <br>
 Username: test
