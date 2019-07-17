@@ -3,7 +3,8 @@ ReactJS application that uses the Scryfall API to search for Magic the Gathering
 
 <h2>Live Deploy:</h2>
 https://kind-bohr-2682d0.netlify.com/
-
+<br>
+<p/>
 You may use the following credentials to login:
 <br>
 Username: test
@@ -24,8 +25,11 @@ You can logout with the button on the header, and once logged out you will find 
 
 <h2>Known Issues as of 07/17/2019:</h2>
 1. When logging in, the site is not properly redirecting the user to the collection page. You may need to hit login, then manually go to the collection page
+<br>
 2. Site is not currently mobile responsive
+<br>
 3. Clicking delete or save buttons too fast can crash the server
+<br>
 4. The API is often changing the image links they are returning. Images in the collections page may become broken
 
 Card information is gathered from the Scryfall API, whose documentation can be found here: https://scryfall.com/docs/api
