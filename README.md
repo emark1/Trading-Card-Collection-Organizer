@@ -4,6 +4,7 @@ ReactJS application that uses the Scryfall API to search for Magic the Gathering
 <h2>Live Deploy:</h2>
 https://kind-bohr-2682d0.netlify.com/
 <br>
+<br>
 <p/>
 You may use the following credentials to login:
 <br>
