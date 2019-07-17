@@ -1,0 +1,44 @@
+.Card {
+    width: 70%;
+    height: 70%
+  }
+  
+  .UList { 
+    columns: 3;
+
+    text-align: center;
+    list-style: none;
+  }
+  .List {
+   margin-bottom: 40px;
+  }
+
+.Text {
+    align-content: center;
+    color: rgb(189, 182, 182);
+    font-family: "Fondamento";
+    padding: 15px
+}
+
+.ColorList{
+  display: flex;
+  justify-content: center;
+}
+
+.ColorImages{
+  padding: 30px;
+  width: 100px;
+  opacity: 0.45;
+  transition: opacity 0.5s;
+}
+
+.ColorImages:hover{
+  cursor:pointer;
+  opacity: 1.0;
+  transition: opacity 0.5s;
+}
+
+
+.Center {
+    margin-left: 20%
+}

@@ -1,0 +1,25 @@
+.menu {
+    background-color: rgb(206, 196, 183);
+    color: white;
+    list-style: none;
+    display: flex;
+  }
+  
+  .link {
+    background-color: purple; 
+  }
+  
+  .menu li {
+    margin: 10px;
+  }
+  
+  .footer {
+    color: white;
+    position: sticky;
+  }
+  
+  .Text {
+    align-content: center;
+    color: rgb(189, 182, 182);
+    font-family: "Fondamento"
+}
