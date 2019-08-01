@@ -122,6 +122,12 @@ function authentication(req,res,next) {
     })
   }
 
-app.listen(8080,() => {
+// app.listen(8080,() => {
+// console.log('Server sure is humming!')
+// })
+
+const PORT = process.env.PORT
+
+app.listen(PORT,() => {
 console.log('Server sure is humming!')
 })
