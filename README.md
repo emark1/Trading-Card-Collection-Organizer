@@ -33,8 +33,8 @@ You can logout with the button on the header, and once logged out you will find 
 <br>
 <br>
 Fixed 08/01/2019:
-When logging in, the site is not properly redirecting the user to the collection page. You may need to hit login, then manually go to the collection page
-
+1. When logging in, the site is not properly redirecting the user to the collection page. You may need to hit login, then manually go to the collection page. -ADDED WITHROUTER AND MOVED PROPS.HISTORY.PUSH INTO METHOD
+<br>
 Card information is gathered from the Scryfall API, whose documentation can be found here: https://scryfall.com/docs/api
 
 Magic the Gathering, card images, and mana symbol art are all copyright Wizards of the Coast. I am not affiliated with Wizards of the Coast.
