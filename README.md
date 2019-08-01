@@ -24,14 +24,16 @@ You can logout with the button on the header, and once logged out you will find 
 
 <img src="gifs/logout.gif"/>
 
-<h2>Known Issues as of 07/17/2019:</h2>
-1. When logging in, the site is not properly redirecting the user to the collection page. You may need to hit login, then manually go to the collection page
+<h2>Known Issues as of 08/01/2019:</h2>
 <br>
 2. Site is not currently mobile responsive
 <br>
 3. Clicking delete or save buttons too fast can crash the server
 <br>
 4. The API is often changing the image links they are returning. Images in the collections page may become broken
+
+Fixed 08/01/2019:
+1. When logging in, the site is not properly redirecting the user to the collection page. You may need to hit login, then manually go to the collection page
 
 Card information is gathered from the Scryfall API, whose documentation can be found here: https://scryfall.com/docs/api
 
